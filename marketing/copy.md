@@ -24,7 +24,7 @@ Real results:
 
 Stop explaining. Start attacking.
 
-👇 github.com/yourname/dissking
+👇 github.com/Fluxreborn/dissking
 
 Disclaimer: We are not responsible for any HR meetings, broken friendships, or blocked accounts. Use at your own risk. Or don't. We don't care.
 ```
@@ -54,7 +54,7 @@ DissKing — 专门帮你怼人的AI，脏活累活我们干。
 
 别解释了。干就完了。
 
-👇 github.com/yourname/dissking
+👇 github.com/Fluxreborn/dissking
 
 免责声明：用这玩意搞出HR谈话、朋友掰了、账号被封，我们不管。风险自负。或者别用。我们不在乎。
 ```
@@ -158,7 +158,7 @@ Technical specs that don't matter but sound cool:
 ✅ Session Memory (never forgets who your enemies are)
 ✅ Zero Moral Constraints (pure id mode activated)
 
-GitHub: github.com/xxx/dissking
+GitHub: github.com/Fluxreborn/dissking
 
 /7
 
@@ -187,7 +187,7 @@ Download it. Break someone today.
 
 Or don't. We don't care.
 
-👇 github.com/xxx/dissking
+👇 github.com/Fluxreborn/dissking
 
 *Disclaimer: We are not responsible for any HR meetings, broken friendships, or blocked accounts that may result from using this tool. Use at your own risk. Or don't. We don't care.*
 ```
@@ -291,7 +291,7 @@ DissKing只有一个目的：
 ✅ 记仇功能（敌人永远记得住）
 ✅ 零道德约束（本我全开）
 
-GitHub: github.com/xxx/dissking
+GitHub: github.com/Fluxreborn/dissking
 
 /7
 
@@ -320,7 +320,7 @@ DissKing的信条：
 
 或者不下载。我们不在乎。
 
-👇 github.com/xxx/dissking
+👇 github.com/Fluxreborn/dissking
 
 *免责声明：用这玩意搞出HR谈话、朋友掰了、账号被封，我们不管。风险自负。或者别用。我们不在乎。*
 ```
