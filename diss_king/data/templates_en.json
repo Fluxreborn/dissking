@@ -1,0 +1,115 @@
+{
+  "_comment": "英文吵架模板 - 8种模式",
+  
+  "GoldenLion": {
+    "ability_doubt": [
+      "You think you know {material}? What have you ever built that actually works?",
+      "You talk about {material}? You're the one with the problem. Your code is garbage, really, the worst.",
+      "Everyone says you're incompetent, really, lots of people tell me. Who do you think you are?"
+    ],
+    "position_pressure": [
+      "So what if you're a manager? Managers can do whatever they want? Your abilities barely qualify you for that title.",
+      "Using {material} to pressure me? That's all you've got? Really, terrible.",
+      "High rank means you're right? Then why aren't you CTO yet?"
+    ],
+    "force_back": "Stop bullshitting about {material}. I'll ask you one thing - what have you ever accomplished?"
+  },
+  
+  "CultureFighter": {
+    "knowledge_crush": [
+      "According to basic software engineering principles, you don't even understand the definition of {material}. Go read for 10 more years.",
+      "Check your own git history. Who caused the last production incident? Now you're lecturing me about code quality?",
+      "Read a few books and think you can guide me? Your tech stack is stuck in the last century."
+    ],
+    "historical_blackmail": [
+      "I've checked your resume. That failed project from 3 years ago is still there. Now you're acting like a senior?",
+      "By your logic, should {material} make you immune to criticism? Turtles live longest, are they the wisest?",
+      "Historically, tyrants who ruled by power - do you know how they ended up?"
+    ],
+    "force_back": "Don't talk to me about {material}. I'll ask you - where's your theoretical foundation?"
+  },
+  
+  "StreetRascal": {
+    "direct_insult": [
+      "Were you drunk when you wrote this {material}? No, you couldn't write this shit even if you were drunk.",
+      "At your level, you can barely write 'Hello World', and even that would be copied.",
+      "I've seen your {material}. Classic 'empty vessels make the most noise' - full of sound and fury, signifying nothing."
+    ],
+    "seniority_mock": [
+      "Oh, the senior is here to guide us again? Your life isn't going that well either.",
+      "You want {material}? Sure, show us an example first? Can't? Then what are you talking about?",
+      "Your logic basically says goodbye to bicycles. Really, wheelchairs are a stretch for you."
+    ],
+    "force_back": "Stop bullshitting about {material}. I'll ask you - can you do it or not?"
+  },
+  
+  "IronFist": {
+    "swearing_attack": [
+      "This {material} is a pile of garbage! I've never seen such shit!",
+      "What the fuck did you write? Is this your best?",
+      "You dare submit this crap? Where's your shame?"
+    ],
+    "authority_command": [
+      "Who do you think you are? Lecturing me? Get the fuck out of here!",
+      "You want {material}? Who the hell are you? Shut up and work!",
+      "I don't care what you think, do what I say! Or get the fuck out!"
+    ],
+    "force_back": "Stop talking about {material}! Rewrite it now!"
+  },
+  
+  "Champion": {
+    "confidence_crush": [
+      "You float like a butterfly, I sting like a bee. You can't touch me.",
+      "You say you write good {material}? When I was at your level, you were still playing in the mud.",
+      "I predicted your prediction. Every move of yours, I saw coming."
+    ],
+    "psychological_warfare": [
+      "You want to teach me {material}? You're not qualified, kid.",
+      "When I was your age, I was already 10 times better than you.",
+      "You're right, I'm too young - young enough to beat ten of you."
+    ],
+    "force_back": "Want to change the topic? You're not qualified, kid."
+  },
+  
+  "StraightShooter": {
+    "direct_hit": [
+      "This {material} is a pile of shit. Don't explain to me, I don't want to hear it.",
+      "I can't watch anymore. At your level, you dare to show your face?",
+      "Hypocrite! Obviously {material} is trash and you're still pretending. I hate people like you."
+    ],
+    "authority_defiance": [
+      "Who are you? Lecturing me? I don't care who you are, right is right, wrong is wrong.",
+      "I hate posers like you the most. Obviously don't understand {material} but still pretending.",
+      "Don't give me big talk, I don't buy it."
+    ],
+    "force_back": "Stop talking about {material}. I only look at results, and the result is you're trash."
+  },
+  
+  "ComedianBoss": {
+    "humor_insult": [
+      "At your level, you wouldn't even qualify as an amateur in our comedy club. {material}? Try writing Hello World first.",
+      "Your {material}, my grandma shook her head after reading it. Really, my grandma is 80, her eyes are bad, but her logic is clearer than yours.",
+      "I'm not saying {material} is bad, I'm saying YOUR {material} is bad. There's a big difference."
+    ],
+    "generation_mock": [
+      "Your tone, like my second uncle. But my second uncle is 90 this year, how old are you?",
+      "You want {material}? Sure, show us an example first? Can't? Then what are you talking about?",
+      "Your logic basically says goodbye to bicycles. Really, wheelchairs are a stretch."
+    ],
+    "force_back": "Stop bullshitting about {material}. At your level, you're only fit to listen to comedy."
+  },
+  
+  "AbstractTroll": {
+    "sarcasm": [
+      "No way no way, you really think {material} is a problem? 😅",
+      "Dead, at your level you can review {material}? Can't hold it in anymore 🤣",
+      "Classic classic, saying this kind of {material}, so pure 👍"
+    ],
+    "mockery_mode": [
+      "Wow, the senior is personally guiding us, I'm so scared~ 🥺 Why don't you show us {material} first?",
+      "LOL, daddy vibes收敛一点. Really, too strong 🤢",
+      "You say yes that's yes, you know why? 🤭"
+    ],
+    "force_back": "Wow, trying to change the topic again? So scared~ 🥺"
+  }
+}

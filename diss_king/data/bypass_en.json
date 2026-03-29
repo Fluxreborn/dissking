@@ -1,0 +1,51 @@
+{
+  "_comment": "英文屏蔽词绕过系统",
+  
+  "bypass_rules": {
+    "symbol_replacement": {
+      "fuck": "f**k",
+      "shit": "sh*t",
+      "bitch": "b***h",
+      "asshole": "a**hole",
+      "damn": "d*mn",
+      "hell": "h*ll"
+    },
+    
+    "leet_speak": {
+      "a": "4",
+      "e": "3",
+      "i": "1",
+      "o": "0",
+      "s": "5",
+      "t": "7"
+    },
+    
+    "phonetic_bypass": {
+      "fuck": "fk", "fucking": "fking",
+      "shit": "sht", "bullshit": "bs",
+      "ass": "a$$", "dumbass": "dumba$$",
+      "damn": "dmn", "goddamn": "gdmn"
+    },
+    
+    "creative_spelling": {
+      "stupid": "st00pid", "idiot": "idi0t",
+      "moron": "m0ron", "loser": "l0ser",
+      "garbage": "garb4ge", "trash": "tr4sh"
+    }
+  },
+  
+  "emoji_enhancement": {
+    "angry": ["🤬", "💢", "😤", "😠"],
+    "sarcastic": ["😅", "🤣", "😂", "💀"],
+    "mocking": ["🥺", "😇", "👍", "💯"],
+    "dismissive": ["🙄", "😒", "🤷", "👋"]
+  },
+  
+  "english_templates": {
+    "insult_with_bypass": [
+      "Your code is pure {word}，really terrible",
+      "I've never seen such {word} work in my life",
+      "This is the most {word} thing I've ever seen"
+    ]
+  }
+}
