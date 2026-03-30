@@ -16,7 +16,7 @@ setup(
     url='https://github.com/yourname/diss-king',
     packages=find_packages(),
     package_data={
-        'diss_king': ['data/*.json'],
+        'diss_king': ['data/*.json', 'prompts/*.txt'],
     },
     classifiers=[
         'Development Status :: 4 - Beta',
